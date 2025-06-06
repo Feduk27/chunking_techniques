@@ -1,8 +1,6 @@
 # ✂️ Semantic & Rule-Based Text Chunking Playground
 
-Welcome to the **Chunking Techniques Exploration** notebook — your all-in-one lab for experimenting with state-of-the-art and classical methods for splitting long texts into meaningful chunks.
-
-Whether you're working on document segmentation, retrieval pipelines, embeddings optimization, or simply preprocessing for LLMs — this notebook offers a modular, extensible framework to test and visualize different chunking strategies.
+Welcome to the **Chunking Techniques Exploration** notebook — your all-in-one lab for experimenting with SOTA and classical methods for splitting long texts into meaningful chunks.
 
 ---
 
